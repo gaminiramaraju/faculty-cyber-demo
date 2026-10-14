@@ -1,0 +1,6 @@
+event_id,timestamp_utc,user,session_id,device_id,source_ip,managed,mfa_result,result
+A01,2026-10-15T08:55:00Z,engineer_demo,S-BASE,DEV-01,192.0.2.10,true,passed,success
+A02,2026-10-15T09:15:00Z,engineer_demo,S-MAINT,DEV-01,192.0.2.10,true,passed,success
+A03,2026-10-15T09:58:00Z,engineer_demo,S-FAIL,DEV-X,198.51.100.77,false,not_completed,failed
+A04,2026-10-15T10:02:00Z,engineer_demo,S-NEW,DEV-X,198.51.100.77,false,passed,success
+A05,2026-10-15T10:18:00Z,staff_demo,S-STAFF,DEV-02,192.0.2.20,true,passed,success

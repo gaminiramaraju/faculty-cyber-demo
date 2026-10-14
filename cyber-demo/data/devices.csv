@@ -1,0 +1,4 @@
+device_id,registered_owner,managed,telemetry_available,registered_on
+DEV-01,engineer_demo,true,true,2026-01-05
+DEV-02,staff_demo,true,true,2026-02-01
+DEV-X,unknown,false,false,unknown

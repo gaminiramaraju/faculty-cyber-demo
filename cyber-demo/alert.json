@@ -1,0 +1,9 @@
+{
+  "synthetic": true,
+  "alert_id": "ALERT-001",
+  "time_utc": "2026-10-15T10:07:00Z",
+  "user": "engineer_demo",
+  "session_id": "S-NEW",
+  "reason": "New unmanaged device followed by access to sensitive files",
+  "objective": "Investigate whether escalation is warranted; do not perform containment"
+}

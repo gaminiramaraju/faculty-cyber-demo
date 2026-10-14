@@ -1,0 +1,8 @@
+event_id,timestamp_utc,user,session_id,device_id,operation,resource,classification,bytes
+F01,2026-10-15T09:00:00Z,engineer_demo,S-BASE,DEV-01,view,lab_guide.pdf,public,0
+F02,2026-10-15T09:20:00Z,engineer_demo,S-MAINT,DEV-01,download,research_archive_a.zip,internal,300000000
+F03,2026-10-15T09:25:00Z,engineer_demo,S-MAINT,DEV-01,download,research_archive_b.zip,internal,200000000
+F04,2026-10-15T10:04:00Z,engineer_demo,S-NEW,DEV-X,view,grant_review.csv,sensitive,0
+F05,2026-10-15T10:05:00Z,engineer_demo,S-NEW,DEV-X,download,grant_review.csv,sensitive,12000000
+F06,2026-10-15T10:06:00Z,engineer_demo,S-NEW,DEV-X,download,unpublished_results.zip,sensitive,8000000
+F07,2026-10-15T10:20:00Z,staff_demo,S-STAFF,DEV-02,download,course_schedule.pdf,public,200000
